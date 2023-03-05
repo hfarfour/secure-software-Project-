@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Observer">
+      <UniqueIdentifier>{cae07c18-7de1-4c5d-9988-ce77e7c327d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Logger">
+      <UniqueIdentifier>{a38cfdf4-43a5-496d-bdd7-bdf7094e7da3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MVC">
+      <UniqueIdentifier>{766af501-0ce8-453a-adb7-7cd5840e5758}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Console">
+      <UniqueIdentifier>{ad0d0ff4-5d8c-4431-9c4e-ee00c9243ae3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SecureTypes">
+      <UniqueIdentifier>{5c95a890-51da-407c-b1b9-7bebcfdd809f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Users">
+      <UniqueIdentifier>{f5919946-690d-404c-a10b-8cc533273730}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Devices">
+      <UniqueIdentifier>{7cbd25c1-bb28-4643-a887-3d41f63dd1ae}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="World.cpp" />
+    <ClCompile Include="Controller.cpp">
+      <Filter>MVC</Filter>
+    </ClCompile>
+    <ClCompile Include="Authenticator.cpp">
+      <Filter>Users</Filter>
+    </ClCompile>
+    <ClCompile Include="UserRepository.cpp">
+      <Filter>Users</Filter>
+    </ClCompile>
+    <ClCompile Include="Model.cpp">
+      <Filter>MVC</Filter>
+    </ClCompile>
+    <ClCompile Include="ConsoleView.cpp">
+      <Filter>MVC</Filter>
+    </ClCompile>
+    <ClCompile Include="Console.cpp">
+      <Filter>Console</Filter>
+    </ClCompile>
+    <ClCompile Include="FileLogger.cpp">
+      <Filter>Logger</Filter>
+    </ClCompile>
+    <ClCompile Include="CSVFormat.cpp">
+      <Filter>Logger</Filter>
+    </ClCompile>
+    <ClCompile Include="FormatDecorator.cpp">
+      <Filter>Logger</Filter>
+    </ClCompile>
+    <ClCompile Include="XMLFormat.cpp">
+      <Filter>Logger</Filter>
+    </ClCompile>
+    <ClCompile Include="ConsoleLogger.cpp">
+      <Filter>Logger</Filter>
+    </ClCompile>
+    <ClCompile Include="LoggerFactory.cpp">
+      <Filter>Logger</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Permission.cpp">
+      <Filter>Users</Filter>
+    </ClCompile>
+    <ClCompile Include="Label.cpp">
+      <Filter>Console</Filter>
+    </ClCompile>
+    <ClCompile Include="DamLabels.cpp">
+      <Filter>Console</Filter>
+    </ClCompile>
+    <ClCompile Include="TextInput.cpp">
+      <Filter>Console</Filter>
+    </ClCompile>
+    <ClCompile Include="NumberInput.cpp">
+      <Filter>Console</Filter>
+    </ClCompile>
+    <ClCompile Include="Input.cpp">
+      <Filter>Console</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="World.h" />
+    <ClInclude Include="Controller.h">
+      <Filter>MVC</Filter>
+    </ClInclude>
+    <ClInclude Include="IObserver.h">
+      <Filter>Observer</Filter>
+    </ClInclude>
+    <ClInclude Include="ISubject.h">
+      <Filter>Observer</Filter>
+    </ClInclude>
+    <ClInclude Include="User.h">
+      <Filter>Users</Filter>
+    </ClInclude>
+    <ClInclude Include="Authenticator.h">
+      <Filter>Users</Filter>
+    </ClInclude>
+    <ClInclude Include="UserRepository.h">
+      <Filter>Users</Filter>
+    </ClInclude>
+    <ClInclude Include="Model.h">
+      <Filter>MVC</Filter>
+    </ClInclude>
+    <ClInclude Include="ConsoleView.h">
+      <Filter>MVC</Filter>
+    </ClInclude>
+    <ClInclude Include="IView.h">
+      <Filter>MVC</Filter>
+    </ClInclude>
+    <ClInclude Include="Console.h">
+      <Filter>Console</Filter>
+    </ClInclude>
+    <ClInclude Include="ILogger.h">
+      <Filter>Logger</Filter>
+    </ClInclude>
+    <ClInclude Include="FileLogger.h">
+      <Filter>Logger</Filter>
+    </ClInclude>
+    <ClInclude Include="ConsoleLogger.h">
+      <Filter>Logger</Filter>
+    </ClInclude>
+    <ClInclude Include="CSVFormat.h">
+      <Filter>Logger</Filter>
+    </ClInclude>
+    <ClInclude Include="XMLFormat.h">
+      <Filter>Logger</Filter>
+    </ClInclude>
+    <ClInclude Include="FormatDecorator.h">
+      <Filter>Logger</Filter>
+    </ClInclude>
+    <ClInclude Include="LoggerTypes.h">
+      <Filter>Logger</Filter>
+    </ClInclude>
+    <ClInclude Include="LoggerFactory.h">
+      <Filter>Logger</Filter>
+    </ClInclude>
+    <ClInclude Include="UserInteraction.h">
+      <Filter>MVC</Filter>
+    </ClInclude>
+    <ClInclude Include="SecureConverter.h">
+      <Filter>SecureTypes</Filter>
+    </ClInclude>
+    <ClInclude Include="SecureInts.h">
+      <Filter>SecureTypes</Filter>
+    </ClInclude>
+    <ClInclude Include="Permission.h">
+      <Filter>Users</Filter>
+    </ClInclude>
+    <ClInclude Include="Role.h">
+      <Filter>Users</Filter>
+    </ClInclude>
+    <ClInclude Include="Action.h">
+      <Filter>Users</Filter>
+    </ClInclude>
+    <ClInclude Include="IDevice.h">
+      <Filter>Devices</Filter>
+    </ClInclude>
+    <ClInclude Include="WaterLevelSensor.h">
+      <Filter>Devices</Filter>
+    </ClInclude>
+    <ClInclude Include="IIntegerSensor.h">
+      <Filter>Devices</Filter>
+    </ClInclude>
+    <ClInclude Include="IBooleanSensor.h">
+      <Filter>Devices</Filter>
+    </ClInclude>
+    <ClInclude Include="SpillwaySensor.h">
+      <Filter>Devices</Filter>
+    </ClInclude>
+    <ClInclude Include="IIntegerActuator.h">
+      <Filter>Devices</Filter>
+    </ClInclude>
+    <ClInclude Include="ValveReleaseActuator.h">
+      <Filter>Devices</Filter>
+    </ClInclude>
+    <ClInclude Include="PrecipitationSensor.h">
+      <Filter>Devices</Filter>
+    </ClInclude>
+    <ClInclude Include="MaxWaterLevelSensor.h">
+      <Filter>Devices</Filter>
+    </ClInclude>
+    <ClInclude Include="EnergyDemandSensor.h">
+      <Filter>Devices</Filter>
+    </ClInclude>
+    <ClInclude Include="EnergyOutputSensor.h">
+      <Filter>Devices</Filter>
+    </ClInclude>
+    <ClInclude Include="Time.h" />
+    <ClInclude Include="Label.h">
+      <Filter>Console</Filter>
+    </ClInclude>
+    <ClInclude Include="DamLabels.h">
+      <Filter>Console</Filter>
+    </ClInclude>
+    <ClInclude Include="TextInput.h">
+      <Filter>Console</Filter>
+    </ClInclude>
+    <ClInclude Include="NumberInput.h">
+      <Filter>Console</Filter>
+    </ClInclude>
+    <ClInclude Include="Input.h">
+      <Filter>Console</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,3 @@
+﻿  Lecture4.cpp
+C:\Users\hossa\OneDrive\Desktop\secure software\Lecture4\Lecture4\Lecture4.cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Lecture4.vcxproj -> C:\Users\hossa\OneDrive\Desktop\secure software\Lecture4\Debug\Lecture4.exe

@@ -1,0 +1,3 @@
+C:\Users\hossa\OneDrive\Desktop\secure software\LectureFormatted\LectureFormatted\Debug\LectureFormatted.vcxprojAssemblyReference.cache
+C:\Users\hossa\OneDrive\Desktop\secure software\LectureFormatted\LectureFormatted\Debug\LectureFormatted.MainForm.resources
+C:\Users\hossa\OneDrive\Desktop\secure software\LectureFormatted\LectureFormatted\Debug\LectureFormatted.vcxproj.GenerateResource.cache

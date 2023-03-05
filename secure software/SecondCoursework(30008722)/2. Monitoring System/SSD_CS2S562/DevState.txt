@@ -1,0 +1,4 @@
+Device State. 
+Internal temperature : 78
+Supply voltage : 138
+Faults : Supply voltage running low

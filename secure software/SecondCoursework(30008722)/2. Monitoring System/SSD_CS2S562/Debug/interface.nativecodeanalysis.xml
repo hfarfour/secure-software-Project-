@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\hossa\OneDrive\Desktop\secure software\SecondCoursework(30008722)\2. Monitoring System\SSD_CS2S562\</FILEPATH>
+      <FILENAME>Interface.cpp</FILENAME>
+      <LINE>8</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Interface::option' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Interface::{ctor}</FUNCTION>
+    <DECORATED>??0Interface@@QAE@XZ</DECORATED>
+    <FUNCLINE>8</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Interface::option</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\hossa\OneDrive\Desktop\secure software\SecondCoursework(30008722)\2. Monitoring System\SSD_CS2S562\</FILEPATH>
+      <FILENAME>Interface.cpp</FILENAME>
+      <LINE>8</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26455</DEFECTCODE>
+    <DESCRIPTION>Default constructor may not throw. Declare it 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>Interface::{ctor}</FUNCTION>
+    <DECORATED>??0Interface@@QAE@XZ</DECORATED>
+    <FUNCLINE>8</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\hossa\OneDrive\Desktop\secure software\SecondCoursework(30008722)\2. Monitoring System\SSD_CS2S562\</FILEPATH>
+      <FILENAME>Interface.cpp</FILENAME>
+      <LINE>62</LINE>
+      <COLUMN>16</COLUMN>
+    </SFA>
+    <DEFECTCODE>26440</DEFECTCODE>
+    <DESCRIPTION>Function 'Interface::getOption' can be declared 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>Interface::getOption</FUNCTION>
+    <DECORATED>?getOption@Interface@@QAEDXZ</DECORATED>
+    <FUNCLINE>62</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

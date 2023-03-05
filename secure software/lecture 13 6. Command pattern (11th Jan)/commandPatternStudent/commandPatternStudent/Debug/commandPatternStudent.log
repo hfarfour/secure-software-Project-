@@ -1,0 +1,8 @@
+﻿  CommandRemoteBasic.cpp
+C:\Users\hossa\OneDrive\Desktop\secure software\lecture 13 6. Command pattern (11th Jan)\commandPatternStudent\commandPatternStudent\CommandRemoteBasic.cpp(65,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hossa\OneDrive\Desktop\secure software\lecture 13 6. Command pattern (11th Jan)\commandPatternStudent\commandPatternStudent\CommandRemoteBasic.cpp(72,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hossa\OneDrive\Desktop\secure software\lecture 13 6. Command pattern (11th Jan)\commandPatternStudent\commandPatternStudent\CommandRemoteBasic.cpp(93,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hossa\OneDrive\Desktop\secure software\lecture 13 6. Command pattern (11th Jan)\commandPatternStudent\commandPatternStudent\CommandRemoteBasic.cpp(96,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hossa\OneDrive\Desktop\secure software\lecture 13 6. Command pattern (11th Jan)\commandPatternStudent\commandPatternStudent\CommandRemoteBasic.cpp(99,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hossa\OneDrive\Desktop\secure software\lecture 13 6. Command pattern (11th Jan)\commandPatternStudent\commandPatternStudent\CommandRemoteBasic.cpp(102,26): warning C4018: '<': signed/unsigned mismatch
+  commandPatternStudent.vcxproj -> C:\Users\hossa\OneDrive\Desktop\secure software\lecture 13 6. Command pattern (11th Jan)\commandPatternStudent\Debug\commandPatternStudent.exe

@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\hossa\OneDrive\Desktop\secure software\Tutorial7\Tutorial7\</FILEPATH>
+      <FILENAME>Tutorial7.cpp</FILENAME>
+      <LINE>20</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>6294</DEFECTCODE>
+    <DESCRIPTION>Ill-defined for-loop:  initial condition does not satisfy test.  Loop body not executed.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>11</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\hossa\OneDrive\Desktop\secure software\Tutorial7\Tutorial7\</FILEPATH>
+      <FILENAME>Tutorial7.cpp</FILENAME>
+      <LINE>14</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26462</DEFECTCODE>
+    <DESCRIPTION>The value pointed to by 'p2' is assigned only once, mark it as a pointer to const (con.4).</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>11</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\hossa\OneDrive\Desktop\secure software\Tutorial7\Tutorial7\</FILEPATH>
+      <FILENAME>Tutorial7.cpp</FILENAME>
+      <LINE>15</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26496</DEFECTCODE>
+    <DESCRIPTION>The variable 'a' is assigned only once, mark it as const (con.4).</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>11</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\hossa\OneDrive\Desktop\secure software\Tutorial7\Tutorial7\</FILEPATH>
+      <FILENAME>Tutorial7.cpp</FILENAME>
+      <LINE>13</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26494</DEFECTCODE>
+    <DESCRIPTION>Variable 'arr' is uninitialized. Always initialize an object (type.5).</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>11</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>arr</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\hossa\OneDrive\Desktop\secure software\Tutorial7\Tutorial7\</FILEPATH>
+      <FILENAME>Tutorial7.cpp</FILENAME>
+      <LINE>14</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'arr': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>11</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>

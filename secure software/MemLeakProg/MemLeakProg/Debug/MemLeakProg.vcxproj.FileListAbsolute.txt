@@ -1,0 +1,3 @@
+C:\Users\hossa\OneDrive\Desktop\secure software\MemLeakProg\MemLeakProg\Debug\MemLeakProg.vcxprojAssemblyReference.cache
+C:\Users\hossa\OneDrive\Desktop\secure software\MemLeakProg\MemLeakProg\Debug\MemLeakProg.MainForm.resources
+C:\Users\hossa\OneDrive\Desktop\secure software\MemLeakProg\MemLeakProg\Debug\MemLeakProg.vcxproj.GenerateResource.cache

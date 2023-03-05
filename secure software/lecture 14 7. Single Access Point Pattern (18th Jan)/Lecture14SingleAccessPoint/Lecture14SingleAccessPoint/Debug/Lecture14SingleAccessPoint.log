@@ -1,0 +1,9 @@
+﻿  Lecture14SingleAccessPoint.cpp
+C:\Users\hossa\OneDrive\Desktop\secure software\lecture 14 7. Single Access Point Pattern (18th Jan)\Lecture14SingleAccessPoint\Lecture14SingleAccessPoint\Lecture14SingleAccessPoint.cpp(203,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hossa\OneDrive\Desktop\secure software\lecture 14 7. Single Access Point Pattern (18th Jan)\Lecture14SingleAccessPoint\Lecture14SingleAccessPoint\Lecture14SingleAccessPoint.cpp(214,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hossa\OneDrive\Desktop\secure software\lecture 14 7. Single Access Point Pattern (18th Jan)\Lecture14SingleAccessPoint\Lecture14SingleAccessPoint\Lecture14SingleAccessPoint.cpp(250,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hossa\OneDrive\Desktop\secure software\lecture 14 7. Single Access Point Pattern (18th Jan)\Lecture14SingleAccessPoint\Lecture14SingleAccessPoint\Lecture14SingleAccessPoint.cpp(253,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hossa\OneDrive\Desktop\secure software\lecture 14 7. Single Access Point Pattern (18th Jan)\Lecture14SingleAccessPoint\Lecture14SingleAccessPoint\Lecture14SingleAccessPoint.cpp(256,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hossa\OneDrive\Desktop\secure software\lecture 14 7. Single Access Point Pattern (18th Jan)\Lecture14SingleAccessPoint\Lecture14SingleAccessPoint\Lecture14SingleAccessPoint.cpp(259,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hossa\OneDrive\Desktop\secure software\lecture 14 7. Single Access Point Pattern (18th Jan)\Lecture14SingleAccessPoint\Lecture14SingleAccessPoint\Lecture14SingleAccessPoint.cpp(173): warning C4715: 'CommandChecker::checkCredentials': not all control paths return a value
+  Lecture14SingleAccessPoint.vcxproj -> C:\Users\hossa\OneDrive\Desktop\secure software\lecture 14 7. Single Access Point Pattern (18th Jan)\Lecture14SingleAccessPoint\Debug\Lecture14SingleAccessPoint.exe

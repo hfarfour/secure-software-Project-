@@ -1,0 +1,12 @@
+﻿  MainForm.cpp
+C:\Users\hossa\OneDrive\Desktop\secure software\ClearProject\ClearProject\MainForm.h(82,11): error C2143: syntax error: missing ';' before '^'
+C:\Users\hossa\OneDrive\Desktop\secure software\ClearProject\ClearProject\MainForm.h(82,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\hossa\OneDrive\Desktop\secure software\ClearProject\ClearProject\MainForm.h(82,31): error C2238: unexpected token(s) preceding ';'
+C:\Users\hossa\OneDrive\Desktop\secure software\ClearProject\ClearProject\MainForm.h(83,10): error C3927: '->': trailing return type is not allowed after a non-function declarator
+C:\Users\hossa\OneDrive\Desktop\secure software\ClearProject\ClearProject\MainForm.h(83,16): error C3613: missing return type after '->' ('int' assumed)
+C:\Users\hossa\OneDrive\Desktop\secure software\ClearProject\ClearProject\MainForm.h(83,16): error C3646: 'Show': unknown override specifier
+C:\Users\hossa\OneDrive\Desktop\secure software\ClearProject\ClearProject\MainForm.h(83,16): error C2059: syntax error: '('
+C:\Users\hossa\OneDrive\Desktop\secure software\ClearProject\ClearProject\MainForm.h(83,18): error C2238: unexpected token(s) preceding ';'
+C:\Users\hossa\OneDrive\Desktop\secure software\ClearProject\ClearProject\MainForm.cpp(6,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+C:\Users\hossa\OneDrive\Desktop\secure software\ClearProject\ClearProject\MainForm.cpp(9,44): error C2653: 'MainForm': is not a class or namespace name
+C:\Users\hossa\OneDrive\Desktop\secure software\ClearProject\ClearProject\MainForm.cpp(9,44): error C2061: syntax error: identifier 'MainForm'

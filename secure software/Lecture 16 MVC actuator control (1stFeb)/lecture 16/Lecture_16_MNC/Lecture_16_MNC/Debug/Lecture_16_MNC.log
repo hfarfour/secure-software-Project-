@@ -1,0 +1,17 @@
+﻿  Lecture_16_MNC.cpp
+C:\Users\hossa\OneDrive\Desktop\secure software\Lecture 16 MVC actuator control (1stFeb)\lecture 16\Lecture_16_MNC\Lecture_16_MNC\Lecture_16_MNC.cpp(55,9): error C3646: 'fan': unknown override specifier
+C:\Users\hossa\OneDrive\Desktop\secure software\Lecture 16 MVC actuator control (1stFeb)\lecture 16\Lecture_16_MNC\Lecture_16_MNC\Lecture_16_MNC.cpp(55,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\hossa\OneDrive\Desktop\secure software\Lecture 16 MVC actuator control (1stFeb)\lecture 16\Lecture_16_MNC\Lecture_16_MNC\Lecture_16_MNC.cpp(187,76): warning C4129: 'O': unrecognized character escape sequence
+C:\Users\hossa\OneDrive\Desktop\secure software\Lecture 16 MVC actuator control (1stFeb)\lecture 16\Lecture_16_MNC\Lecture_16_MNC\Lecture_16_MNC.cpp(216,26): error C2039: 'getFanState': is not a member of 'Model'
+C:\Users\hossa\OneDrive\Desktop\secure software\Lecture 16 MVC actuator control (1stFeb)\lecture 16\Lecture_16_MNC\Lecture_16_MNC\Lecture_16_MNC.cpp(50): message : see declaration of 'Model'
+C:\Users\hossa\OneDrive\Desktop\secure software\Lecture 16 MVC actuator control (1stFeb)\lecture 16\Lecture_16_MNC\Lecture_16_MNC\Lecture_16_MNC.cpp(224,21): error C2039: 'getFanState': is not a member of 'Model'
+C:\Users\hossa\OneDrive\Desktop\secure software\Lecture 16 MVC actuator control (1stFeb)\lecture 16\Lecture_16_MNC\Lecture_16_MNC\Lecture_16_MNC.cpp(50): message : see declaration of 'Model'
+C:\Users\hossa\OneDrive\Desktop\secure software\Lecture 16 MVC actuator control (1stFeb)\lecture 16\Lecture_16_MNC\Lecture_16_MNC\Lecture_16_MNC.cpp(228,11): error C2039: 'switchFanOn': is not a member of 'Model'
+C:\Users\hossa\OneDrive\Desktop\secure software\Lecture 16 MVC actuator control (1stFeb)\lecture 16\Lecture_16_MNC\Lecture_16_MNC\Lecture_16_MNC.cpp(50): message : see declaration of 'Model'
+C:\Users\hossa\OneDrive\Desktop\secure software\Lecture 16 MVC actuator control (1stFeb)\lecture 16\Lecture_16_MNC\Lecture_16_MNC\Lecture_16_MNC.cpp(234,11): error C2039: 'switchFanOff': is not a member of 'Model'
+C:\Users\hossa\OneDrive\Desktop\secure software\Lecture 16 MVC actuator control (1stFeb)\lecture 16\Lecture_16_MNC\Lecture_16_MNC\Lecture_16_MNC.cpp(50): message : see declaration of 'Model'
+C:\Users\hossa\OneDrive\Desktop\secure software\Lecture 16 MVC actuator control (1stFeb)\lecture 16\Lecture_16_MNC\Lecture_16_MNC\Lecture_16_MNC.cpp(238,21): error C2039: 'getFanState': is not a member of 'Model'
+C:\Users\hossa\OneDrive\Desktop\secure software\Lecture 16 MVC actuator control (1stFeb)\lecture 16\Lecture_16_MNC\Lecture_16_MNC\Lecture_16_MNC.cpp(50): message : see declaration of 'Model'
+C:\Users\hossa\OneDrive\Desktop\secure software\Lecture 16 MVC actuator control (1stFeb)\lecture 16\Lecture_16_MNC\Lecture_16_MNC\Lecture_16_MNC.cpp(239,1): error C2664: 'void View::displayData(int,int,int,int)': cannot convert argument 4 from 'state' to 'int'
+C:\Users\hossa\OneDrive\Desktop\secure software\Lecture 16 MVC actuator control (1stFeb)\lecture 16\Lecture_16_MNC\Lecture_16_MNC\Lecture_16_MNC.cpp(239,34): message : This conversion requires an explicit cast (static_cast, C-style cast or function-style cast)
+C:\Users\hossa\OneDrive\Desktop\secure software\Lecture 16 MVC actuator control (1stFeb)\lecture 16\Lecture_16_MNC\Lecture_16_MNC\Lecture_16_MNC.cpp(176,7): message : see declaration of 'View::displayData'

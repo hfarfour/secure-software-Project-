@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="IObserver" Collapsed="true">
+    <Position X="5.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IObserver.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISubject" Collapsed="true">
+    <Position X="1.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAEABAAAAACAAAAAA=</HashCode>
+      <FileName>ISubject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IView" Collapsed="true">
+    <Position X="0.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AhAADAMQACIAAAQEAhkAAAIgAUQAAAhAAACBBAAAEBA=</HashCode>
+      <FileName>IView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model" Collapsed="true">
+    <Position X="2.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EQASCgFoACJCDIAAAQAAAwIAIQAA4C0QAgwUAICAAAA=</HashCode>
+      <FileName>Model.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controller" Collapsed="true">
+    <Position X="5.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAAAAAQAAAAAAAAAAAQAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Controller.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleView" Collapsed="true">
+    <Position X="0.5" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kxAgDgUQiiJCAA6HAlmCBQshOcQAoShBACCBLJCA2BA=</HashCode>
+      <FileName>ConsoleView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Input" Collapsed="true">
+    <Position X="6.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAgAgAAAAAAAQUAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Input.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NumberInput" Collapsed="true">
+    <Position X="5.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAgAIAAAAAAAAAAAAAQEAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>NumberInput.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextInput" Collapsed="true">
+    <Position X="7.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAACAgAIAAAAAAAAAAAEAAAAAAAAAAAUAAA=</HashCode>
+      <FileName>TextInput.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Label" Collapsed="true">
+    <Position X="22.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAgAAAAAAAAAAQAAFAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Label.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DamLabels" Collapsed="true">
+    <Position X="20.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQAAAAAAABgAAAAAAABAAAAAAAAgAAQCAAQCBASIEAA=</HashCode>
+      <FileName>DamLabels.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Console" Collapsed="true">
+    <Position X="19" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAJQAAAAAEAAAAAAACAAAAAAABAAAA=</HashCode>
+      <FileName>Console.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecureConverter" Collapsed="true">
+    <Position X="20.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAACAAAAIAIAAAA=</HashCode>
+      <FileName>SecureConverter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="int_s&lt;T, min, max&gt;" Collapsed="true">
+    <Position X="11.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAgAIAAAAAAAAQAAAAQAAAAAAACgAAAAAAA=</HashCode>
+      <FileName>SecureInts.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="World" Collapsed="true">
+    <Position X="19" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARQAIABgAAJCAIAAAgIFQQAAAUqBACQAAgAAAoAQAUA=</HashCode>
+      <FileName>World.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logger::ConsoleLogger" Collapsed="true">
+    <Position X="7.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConsoleLogger.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logger::CSVFormat" Collapsed="true">
+    <Position X="0.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAgAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>CSVFormat.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logger::FormatDecorator" Collapsed="true">
+    <Position X="1.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAgQAAABAAAAAAA=</HashCode>
+      <FileName>FormatDecorator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logger::ILogger" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ILogger.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logger::FileLogger" Collapsed="true">
+    <Position X="5.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAABAEAAAAAgAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>FileLogger.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logger::LoggerFactory" Collapsed="true">
+    <Position X="17.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LoggerFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logger::XMLFormat" Collapsed="true">
+    <Position X="3" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>XMLFormat.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Users::User" Collapsed="true">
+    <Position X="22.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQABAAACAAAAAAAIAAAABAAAAAAAgAAAAAAAAACAAAA=</HashCode>
+      <FileName>User.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Users::Permission" Collapsed="true">
+    <Position X="19" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEgAAAAAQAAAAAAAAAAAAAgAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Permission.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Users::UserRepository" Collapsed="true">
+    <Position X="17.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UserRepository.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Users::Authenticator" Collapsed="true">
+    <Position X="17.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAQAAAAAAAAAAAAIAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Authenticator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnergyDemandSensor" Collapsed="true">
+    <Position X="5.25" Y="17.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAACAAACAAAAAAAAAAAAAAAAAAAAABBAAA=</HashCode>
+      <FileName>EnergyDemandSensor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnergyOutputSensor" Collapsed="true">
+    <Position X="7.75" Y="17.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAACAAACAAAAAAAIAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>EnergyOutputSensor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IBooleanSensor" Collapsed="true">
+    <Position X="1.75" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IBooleanSensor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IDevice" Collapsed="true">
+    <Position X="7.75" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IDevice.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IIntegerActuator" Collapsed="true">
+    <Position X="12.5" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IIntegerActuator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IIntegerSensor" Collapsed="true">
+    <Position X="10.25" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IIntegerSensor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MaxWaterLevelSensor" Collapsed="true">
+    <Position X="15" Y="17.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQIAAACAAACAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>MaxWaterLevelSensor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrecipitationSensor" Collapsed="true">
+    <Position X="0.5" Y="17.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAACAAACAAAAAAAAAAAAAABAAAAAABAAAA=</HashCode>
+      <FileName>PrecipitationSensor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpillwaySensor" Collapsed="true">
+    <Position X="3" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAACAAACAAAAAAAACAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>SpillwaySensor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WaterLevelSensor" Collapsed="true">
+    <Position X="10.25" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAIAAACAAACAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>WaterLevelSensor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ValveReleaseActuator" Collapsed="true">
+    <Position X="12.5" Y="18.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAACgAACAAAAAAAAAAAAAAAAQAAAABAAAA=</HashCode>
+      <FileName>ValveReleaseActuator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Time" Collapsed="true">
+    <Position X="17.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAEQABAAAAAAAAAAAAAAAAAAAIAAQA=</HashCode>
+      <FileName>Time.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="int64_s" Collapsed="true">
+    <Position X="14.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SecureInts.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="int32_s" Collapsed="true">
+    <Position X="14.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SecureInts.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="int16_s" Collapsed="true">
+    <Position X="8.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SecureInts.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="uint64_s" Collapsed="true">
+    <Position X="14.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SecureInts.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="uint32_s" Collapsed="true">
+    <Position X="11.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SecureInts.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="uint16_s" Collapsed="true">
+    <Position X="11.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SecureInts.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Enum Name="UserInteraction" Collapsed="true">
+    <Position X="17.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAIAAAAAAAAAAAAAAAAAgAAAAAAQAAEAAAA=</HashCode>
+      <FileName>UserInteraction.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Logger::Type" Collapsed="true">
+    <Position X="22.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>LoggerTypes.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Logger::Format" Collapsed="true">
+    <Position X="19" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAEAEAA=</HashCode>
+      <FileName>LoggerTypes.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Users::Role" Collapsed="true">
+    <Position X="20.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAABAAAAQAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Role.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Users::Action" Collapsed="true">
+    <Position X="17.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Action.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

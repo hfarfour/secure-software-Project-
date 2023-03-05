@@ -1,0 +1,10 @@
+﻿  Controller.cpp
+H:\!AA modules 2020-21\03. CS2S562b Secure Soft. Develop\!!!!!Sessions 2020-2021\Week 15 Secure MVC\MVC code\MVCBasicNoUser2021\MVCBasic\Controller.cpp(78,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+H:\!AA modules 2020-21\03. CS2S562b Secure Soft. Develop\!!!!!Sessions 2020-2021\Week 15 Secure MVC\MVC code\MVCBasicNoUser2021\MVCBasic\Controller.cpp(79,7): error C2819: type 'View' does not have an overloaded member 'operator ->'
+H:\!AA modules 2020-21\03. CS2S562b Secure Soft. Develop\!!!!!Sessions 2020-2021\Week 15 Secure MVC\MVC code\MVCBasicNoUser2021\MVCBasic\View.h(8): message : see declaration of 'View'
+H:\!AA modules 2020-21\03. CS2S562b Secure Soft. Develop\!!!!!Sessions 2020-2021\Week 15 Secure MVC\MVC code\MVCBasicNoUser2021\MVCBasic\Controller.cpp(79,7): message : did you intend to use '.' instead?
+H:\!AA modules 2020-21\03. CS2S562b Secure Soft. Develop\!!!!!Sessions 2020-2021\Week 15 Secure MVC\MVC code\MVCBasicNoUser2021\MVCBasic\Controller.cpp(79,9): error C2039: 'simulationOoutput': is not a member of 'View'
+H:\!AA modules 2020-21\03. CS2S562b Secure Soft. Develop\!!!!!Sessions 2020-2021\Week 15 Secure MVC\MVC code\MVCBasicNoUser2021\MVCBasic\View.h(8): message : see declaration of 'View'
+  Main.cpp
+  View.cpp
+  Generating Code...

@@ -1,0 +1,4 @@
+H:\!AA modules 2020-21\03. CS2S562b Secure Soft. Develop\2021.03.08 Coursework 2 materials and guidlines\Examples\2. Internet Monitoring System\Debug\SSD_CS2S562.exe.lastcodeanalysissucceeded
+H:\!AA modules 2020-21\03. CS2S562b Secure Soft. Develop\2021.03.08 Coursework 2 materials and guidlines\Examples\2. Internet Monitoring System\SSD_CS2S562\Debug\NativeCodeAnalysis.read.1.tlog
+C:\Users\hossa\OneDrive\Desktop\secure software\SecondCoursework(30008722)\2. Monitoring System\Debug\SSD_CS2S562.exe.lastcodeanalysissucceeded
+C:\Users\hossa\OneDrive\Desktop\secure software\SecondCoursework(30008722)\2. Monitoring System\SSD_CS2S562\Debug\NativeCodeAnalysis.read.1.tlog

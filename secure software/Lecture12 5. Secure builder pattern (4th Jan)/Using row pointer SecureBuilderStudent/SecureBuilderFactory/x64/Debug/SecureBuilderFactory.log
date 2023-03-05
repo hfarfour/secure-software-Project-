@@ -1,0 +1,13 @@
+﻿Build started 14/02/2017 15:21:56.
+     1>Project "H:\!AA teaching modules 2016-17\!3. CS2S562b Secure Software Development\Code\SecureBuilderFactory\SecureBuilderFactory\SecureBuilderFactory.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt "..\Source\09. SecureBuilderFactory.cpp"
+         09. SecureBuilderFactory.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"H:\!AA teaching modules 2016-17\!3. CS2S562b Secure Software Development\Code\SecureBuilderFactory\x64\Debug\SecureBuilderFactory.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"H:\!AA teaching modules 2016-17\!3. CS2S562b Secure Software Development\Code\SecureBuilderFactory\x64\Debug\SecureBuilderFactory.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"H:\!AA teaching modules 2016-17\!3. CS2S562b Secure Software Development\Code\SecureBuilderFactory\x64\Debug\SecureBuilderFactory.lib" /MACHINE:X64 "x64\Debug\09. SecureBuilderFactory.obj"
+         SecureBuilderFactory.vcxproj -> H:\!AA teaching modules 2016-17\!3. CS2S562b Secure Software Development\Code\SecureBuilderFactory\x64\Debug\SecureBuilderFactory.exe
+     1>Done Building Project "H:\!AA teaching modules 2016-17\!3. CS2S562b Secure Software Development\Code\SecureBuilderFactory\SecureBuilderFactory\SecureBuilderFactory.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.81

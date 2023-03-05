@@ -1,0 +1,17 @@
+﻿  Auth.cpp
+C:\Users\hossa\OneDrive\Desktop\secure software\SecondCoursework(30008722)\1. WaterTypeFactory\Coursework\Auth.cpp(34,20): warning C4018: '<': signed/unsigned mismatch
+  AuthInfo.cpp
+  Lake.cpp
+  Main.cpp
+  ProofofID.cpp
+  River.cpp
+  Sea.cpp
+  Sensors.cpp
+C:\Users\hossa\OneDrive\Desktop\secure software\SecondCoursework(30008722)\1. WaterTypeFactory\Coursework\Sensors.cpp(22,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\hossa\OneDrive\Desktop\secure software\SecondCoursework(30008722)\1. WaterTypeFactory\Coursework\Sensors.cpp(49,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\hossa\OneDrive\Desktop\secure software\SecondCoursework(30008722)\1. WaterTypeFactory\Coursework\Sensors.cpp(177,63): warning C4305: 'initializing': truncation from 'double' to 'float'
+  User.cpp
+  WaterType.cpp
+  WaterTypeFactory.cpp
+  Generating Code...
+  Coursework.vcxproj -> C:\Users\hossa\OneDrive\Desktop\secure software\SecondCoursework(30008722)\1. WaterTypeFactory\Debug\Coursework.exe
